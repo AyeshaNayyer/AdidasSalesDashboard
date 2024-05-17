@@ -17,12 +17,15 @@ Check out the report for details.
 
 ### Retailers
 - Retailer's performance across the US.
+- ![Retailer-Dashboard](Retailers.png)
 
 ### Location
 - Sales and operating profit across different regions, states, or cities.
+- ![Loation-Dashboard](Location.png)
 
 ### Product
 - Insight into the company's top and worst-performing products.
+- ![Product-Dashboard](Products.png)
 
 ## Final Insights
 
