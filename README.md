@@ -12,6 +12,8 @@ Check out the report for details.
 - Overview of operating sales and profit.
 - Filters for region, retailer, and year can be used.
 - Drill-through feature enabled for all charts.
+- ![Main-Dashboard](Main.png)
+
 
 ### Retailers
 - Retailer's performance across the US.
